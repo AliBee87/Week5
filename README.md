@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+This is a simple registration that connects the frontend to the backend. I built this code **using React** with NodeJS. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started 
+  - You will first have to make sure you have my other repository installed. Repository and instructions are here: 
+https://github.com/AliBee87/MSSE661MongoAPI
+  - Then you will have to enter `npm run dev` to get the server going. 
 
-## Available Scripts
+## To Run This Project
+ First, ensure you have npm installed.
 
-In the project directory, you can run:
+ Then, in your terminal, input 
 
-### `npm start`
+ ```
+  npx create-react-app [name]
+ ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ Then, enter 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ```
+ cd [name]
+ ```
 
-### `npm test`
+ And then, 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ ```
+ code .
+ ```
 
-### `npm run build`
+ To get into the file. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+ You'll need to make sure you have the following packages installed: 
+ 
+   ```
+    @fortawesome/fontawesome-svg-core
+   
+    @fortawesome/free-solid-svg-icons
+    
+    @fortawesome/react-fontawesome
+    
+    axios
+   ```
+  
+  To install, enter `npm i` and the package in your terminal.
+   
+  Then, to run, go to the file location, then enter `npm start` in your terminal. Thanks for checking out my work! 
