@@ -26,7 +26,7 @@ https://github.com/AliBee87/MSSE661MongoAPI
  code .
  ```
 
- To get into the file. 
+ to get into the file. 
 
  
  You'll need to make sure you have the following packages installed: 
